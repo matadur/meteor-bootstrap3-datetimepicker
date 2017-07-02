@@ -1,6 +1,14 @@
 bootstrap3-datetimepicker
 ======================
 
+*Forked from* `tsega/meteor-bootstrap3-datetimepicker`
+
+**Changelog**
+* v. 4.18
+Removed dependencies on Meteor packages of moment, in favor of node package
+
+---
+
 Bootstrap 3 DateTime picker from Eonasdan, https://github.com/Eonasdan/bootstrap-datetimepicker, packaged for Meteor.js
 
 To install
